@@ -17,7 +17,6 @@ vignette: >
 In the $\bf{facultyephs}$ package, a user will be able to find a variety of public information (age, degree, field of study, etc.) on the Williams College faculty. The package's focus lies on being able to manipulate faculty information primarily based on their age, such as finding out the mean age of Williams College faculty or looking at the oldest and youngest faculty member for each year. I assumed that a faculty member receives a BA when they are 22 and estimated their age accordingly. Although some people get their BA earlier than 22, some entries only have PhD or Masters in their information and should ultimately balance out the assumption of 22 years old. Data has been gathered for the last five years starting with the 2014-2013 acaedmic year and goes back to the 2010-2009 academic year. Unfortunately, the most current academic year does not include each faculty member's year in which they received their undergraduate degree.
 
 It is useful to input this code before using the package:
-devtools::load_all(".")
 library(ggplot2)
 
 
