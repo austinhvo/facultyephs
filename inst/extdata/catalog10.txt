@@ -1,0 +1,353 @@
+Name	Title	Degree	Graduation	Age	Undergraduate	Field
+Colin C. Adams	Thomas T. Read Professor of Mathematics	BS	1978	55	M.I.T.	Mathematics
+***Jeannie R Albrecht	Assistant Professor of Computer Science	BS	2001	32	Gettysburg College	Computer Science
+Laylah Ali	Associate Professor of Art	BA	1991	42	Williams	Art
+Marsha I. Altschuler	Professor of Biology	BS	1972	61	University of Rochester	Biology
+Henry W. Art	Rosenburg Professor of Environmental Studies and Biology	BA	1966	67	Dartmouth	Biology
+Duane A. Bailey	Professor of Computer Science	BA	1982	51	Amherst College	Computer Science
+**Robert Baker-White	Professor of Theatre	BA	1980	53	Williams	Theatre
+Jon M. Bakija	Associate Professor of Economics	BA	1990	43	Wesleyan	Economics
+**Lois M. Banta	Associate Professor of Biology	BA	1983	50	Johns Hopkins	Biology
+Bill Barrale	Assistant Professor of Physical Education	BA	1994	39	Northeastern	Physical Education
+Andrea Barrett	Lecturer in English	BS	1974	59	Union College	English
+***Melissa J. Barry	Associate Professor of Philosophy	BA	1988	45	Wheaton	Philosophy
+Donald deB Beaver	Professor of History of Science	BA	1958	75	Harvard	History
+Olga R. Beaver	Professor of Mathematics	BA	1968	65	University of Missouri	Mathematics
+Ilona D. Bell	Samuel Fessenden Clarke Professor of English	BA	1969	64	Radcliffe	English
+**Robert H. Bell	Frederick Latimer Wells Professor of English	BA	1967	66	Dartmouth	English
+Gene H. Bell-Villada	Professor of Romance Languages	BA	1963	70	University of Arizona	Romance Languages
+Ben Benedict	Lecturer in Art	BA	1973	60	Yale	Art
+Devyn Spence Benson	Assistant Professor of Africana Studies and History	BA	2001	32	University of North Carolina	Africana Studies
+**Magnus T. Bernhardsson	Associate Professor of History and Fellow of the Oakley Center for Humanities and Social Sciences	BA	1990	43	University of Iceland	History
+Dieter Bingemann	Associate Professor of Chemistry	PhD	1994	39	University Gottengen	Chemistry
+M. Jennifer Bloxam	Professor of Music	BM	1979	54	University of Illinois	Music
+*Christopher A. Bolton	Assistant Professor of Comparative Literature	BA	1989	44	Harvard	Comparative Literature
+Sarah R. Bolton	Professor of Physicsand Dean of the College	BS	1988	45	Brown	Physics
+Carsten Botts	Assistant Professor of Statistics	BS	1998	35	Georgetown	Statistics
+Ralph M. Bradburd	David A. Wells Professor of Political Economy	BA	1970	63	Columbia	Political Economy
+Donald Brooks	Assistant Professor of Physical Education and Assistant Football Coach	BA	2002	31	Springfield College	Physical Education
+Fletcher Brooks	Assistant Professor of Physical Education and Head Coach of Men’s and Women’s Track and Field	BA	1993	40	Allegheny College	Physical Education
+Celine Brossillon	Visiting Assistant Professor of French	BA	1997	36	Francois Rabelais	French
+Deborah A. Brothers	Costume Director and Lecturer in Theatre	BA	1976	57	University of New Orleans	Theatre
+Ernest D. Brown	Professor of Music	BA	1969	64	Harvard	Music
+Leslie Brown	Associate Professor of History	BA	1977	56	Tufts University	History
+Michael F. Brown	James N. Lambert ’39 Professor of Latin American Studies and Director of the Oakley Center for the Humanities and Social Sciences	BA	1972	61	Princeton	Latina/o Studies
+Henry J. Bruton	Visiting Professor of Economics	BA	1943	90	Texas	Economics
+Freddie Bryant	Visiting Lecturer in Music and Africana Studies	BA	1987	46	Amherst	Music
+Jean-Bernard Bucky	William Dwight Whitney Professor of Arts	BS	1958	75	Queens	Art
+Denise Kimber Buell	Professor of Religion	BA	1987	46	Princeton	Religion
+Lynda K. Bundtzen	Herbert H. Lehman Professor of English	BA	1968	65	University of Minnesota	English
+*Edward B. Burger	Lissack Professor of Social Responsibility and Personal Ethics	BA	1985	48	Connecticut College	Mathematics
+Sandra L. Burton	Lipp Family Director of Dance	BA	1976	57	C.U.N.Y.	Dance
+Matthew R. Campanelli	Lecturer in Physical Education	BA	2000	33	Williams	Physical Education
+Gerard Caprio	William Brough Professor of Economics	BA	1972	61	Williams	Economics
+James T. Carlton	Director of Williams-Mystic Program and Professor of Marine Science and Adjunct Professor of Biology	BA	1971	62	University of California	Biology
+Alison A. Case	Professor of English	BA	1984	49	Oberlin	English
+*Julie A. Cassiday	Professor of Russian	BA	1986	47	Grinnell	Russian
+David N. Cassuto	Class of 1948 Distinguished Visiting Professor in Environmental Studies	BA	1985	48	Wesleyan	Environmental Studies
+Cosmo A. Catalano	Theatre Production Manager for the ’62 Center of Theatre	BA	1976	57	University of Iowa	Theatre
+Maria Elena Cepeda	Associate Professor of Latina/o Studies	BA	1995	38	Kenyon College	Latina/o Studies
+G. Donald Chandler	Class of 1948 Distinguished Visiting Professor of Leadership Studies	BA	1972	61	Williams	Leadership Studies
+Cecilia Chang	Associate Professor of Chinese	BA	1981	52	Fu-Jen University	Chinese
+Jessica M. Chapman	Assistant Professor of History	BA	1999	34	Valparaiso University	History
+Ondine Chavoya	Associate Professor of Art	BA	1992	41	University of California	Art
+Kerry A. Christensen	Garfield Professorship of Ancient Languages	BA	1981	52	Swarthmore	Ancient Languages
+Cassandra J. Cleghorn	Senior Lecturer in English and American Studies	BA	1983	50	University of California	American Studies
+Michael P. Conforti	Lecturer in the Graduate Art Program in Art History	BA	1968	65	Trinity College	Art History
+Mea S. Cook	Assistant Professor of Geosciences	BA	1999	34	Princeton University	Geosciences
+Ronadh Cox	Associate Professor of Geosciences	BS	1985	48	University College Dublin	Geosciences
+***George T. Crane	Professor of Political Science	BA	1979	54	S.U.N.Y.	Political Science
+Marshall K. Creighton	Lecturer in Physical Education	BA	2002	31	Williams	Physical Education
+Justin Crowe	Assistant Professor of Political Science	BA	2003	30	Williams	Political Science
+Jennifer Randall Crosby	Assistant Professor of Psychology	BA	1994	39	Stanford University	Psychology
+Joseph L. Cruz	Associate Professor of Philosophy	BA	1991	42	Williams	Philosophy
+Robert F. Dalzell	Jr. Frederick Rudolph 1942 Professor of American Culture	BA	1959	74	Amherst	History
+Erica Dankmeyer	Visiting Lecturer in Humanities and Dance	BA	1991	42	Williams College	Dance
+Andrea Danyluk	Professor of Computer Science	BA	1984	49	Vassar	Computer Science
+**William R. Darrow	Cluett Professor of Religion	BA	1970	63	University of California	Religion
+Theo Davis	Associate Professor of English	BA	1994	39	Brown	English
+Derek Dean	Instructor in Biology	BA	1994	39	Oberlin	Biology
+Alan W. de Gooyer	Lecturer in English	BA	1991	42	Colorado State	English
+Edan Dekel	Assistant Professor of Classics	BA	1996	37	Brown	Classics
+Marek Demianski	Visiting Professor of Astronomy	BA	1962	71	Univ. of Warsaw	Astronomy
+Nicole S. Desrosiers	Lecturer in Romance Languages	CAPES	1970	63	Clermont-Ferrand	Romance Languages
+David P. Dethier	Edward Brust Professor of Geology and Mineralogy	BA	1972	61	Dartmouth	Geosciences
+Satyan L. Devadoss	Associate Professor of Mathematics	BS	1993	40	North Central College	Mathematics
+*Monique Deveaux	Professor of Political Science	BA	1989	44	McGill	Political Science
+Richard D. De Veaux	Professor of Statistics	BA	1973	60	Princeton	Statistics
+Charles B. Dew	Ephraim Williams Professor of American History	BA	1958	75	Williams	History
+William DeWitt	C. Carlisle and Margaret Tippit Professor of Biology	BA	1961	72	Williams	Biology
+Georges B. Dreyfus	Jackson Professor of Religion	BA	1969	64	La Chaux-de-Fonds	Religion
+Helga Druxes	Professor of German	MA	1985	48	Brown	German
+Sara L. Dubow	Assistant Professor of History	BA	1991	42	Williams	History
+**William C. Dudley	Associate Professor of Philosophy and Herbert H. Lehman Fellow of the Oakley Center for Humanities and Social Sciences Second Semester	BA	1989	44	Williams	Philosophy
+Susan Dunn	Preston S. Parish ’41 Third Century Professor in the Arts and Humanities	BA	1966	67	Smith	Leadership Studies
+David B. Edwards	W. Van Alan Clark ’41 Third Century Professor of Social Sciences	BA	1975	58	Princeton	Anthropology
+Holly Edwards	Senior Lecturer in Art	BA	1975	58	Princeton	Art
+***Joan Edwards	Washington Gladden 1859 Professor of Biology	BA	1971	62	University of Michigan	Biology
+**Susan L. Engel	Senior Lecturer in Psychology and Director of Teaching Program	BA	1980	53	Sarah Lawrence	Psychology
+David Eppel	Professor of Theatre	BA	1971	62	University of Cape Town	Theatre
+Edward A. Epping	Alexander D. Falck Class of 1899 Professor of Art and Academic Director of the Multicultural Center	BA	1970	63	Western Illinois University	Art
+Peter Erickson	Visiting Professor of Humanities	BA	1967	66	Amherst	Africana Studies
+Richard J. Farley	Assistant Professor of Physical Education	BS	1968	65	Boston University	Physical Education
+Peter K. Farwell	Assistant Professor of Physical Education	BA	1973	60	Williams	Physical Education
+Steven Fein	Professor of Psychology	BA	1986	47	Princeton	Psychology
+Michael Feola	Bennett Boskey Visiting Professor in Political Science	BM	1971	62	Boston University School for the Arts	Political Science
+Zirka Z. Filipczak	J. Kirk T. Varnedoe ’67 Professor of Art	BA	1964	69	Barnard	Art
+Robert L. Fisher	Assistant Professor of Physical Education and Associate Director of Athletics	BA	1970	63	St. Lawrence	Physical Education
+*Anna Fishzon	Assistant Professor of Russian History	BA	1994	39	Duke University	Russian
+*Stephen E. Fix	Robert G. Scott ’68 Professor of English and Coordinator of the Tutorial Program	BA	1974	59	Boston College	English
+Nikki Floyd	Gaius Charles Bolin Fellow in Asian Studies	BA	1999	34	Ohio University–Athens	Asian Studies
+*Antonia E. Foias	Associate Professor of Anthropology	BA	1987	46	Harvard/Radcliffe	Anthropology
+Kevin R. Forkey	Lecturer in Physics	BA	1981	52	Cornell	Physics
+Michael Fortunato	Visiting Professor of Economics First Semester	BA	1976	57	Columbia	Economics
+*Soledad Fox	Associate Professor of Romance Languages	BA	1990	43	Sarah Lawrence College	Romance Languages
+Jennifer L. French	Associate Professor in Latin-American Literature and Spanish Language and Director of the Center for Environmental Studies	BA	1995	38	College of William & Mary	Spanish
+Stephen N. Freund	Associate Professor of Computer Science	BS	1995	38	Stanford	Computer Science
+Alexandra Garbarini	Associate Professor of History	BA	1994	39	Williams	History
+Sarah Gardner	Lecturer in Environmental Studies	BA	1985	48	Smith	Environmental Studies
+Thomas A. Garrity	William R. Kenan Jr. Professor of Mathematics	BS	1981	52	University of Texas	Mathematics
+Robert Gazzale	Assistant Professor of Economics	BS	1990	43	Georgetown	Economics
+Amy Gehring	Associate Professor of Chemistry	BA	1994	39	Williams	Chemistry
+William Gentry	Professor of Economics	BS	1986	47	MIT	Economics
+Steven B. Gerrard	Professor of Philosophy	BA	1978	55	Amherst	Philosophy
+Lisa Gilbert	Assistant Professor of Marine Science and Assistant Professor of Geosciences at Williams-Mystic	BA	1997	36	Darthmouth	Geosciences
+Michael A. Glier	Professor of Art	BA	1976	57	Williams	Art
+George R. Goethals II	Professor of Psychology	BA	1966	67	Harvard	Psychology
+Christopher Goh	Assistant Professor of Chemistry	BS	1989	44	University of Durham	Chemistry
+Sarah Goh	Assistant Professor of Chemistry	BS	1996	37	University of Michigan	Chemistry
+*Eric J. Goldberg	Associate Professor of History	BA	1991	42	University of Pennsylvania	History
+Darra J. Goldstein	Francis Christopher Oakley Third Century Professor of Russian	BA	1973	60	Vassar	Russian
+*Douglas Gollin	Professor of Economics	BA	1983	50	Harvard	Economics
+*Edward Gollin	Associate Professor of Music and Fellow of the Oakley Center for Humanities and Social Sciences First Semester	BA	1992	41	MIT	Music
+Nicholas Goodbody	Visiting Assistant Professor of Spanish	BA	2003	30	Williams	Spanish
+Marc Gotlieb	Director of the Graduate Program in Art History and Class of 1955 Memorial Professor of Art	BA	1980	53	University of Toronto	Art History
+Jesse Aron Green	Arhur Levitt Jr. ’52 Artist–in–Residence in Art	BA	2003	30	Harvard	Art
+Daniel Greenberg	Lecturer of Physical Education and Head Men’s Tennis Coach	BA	2008	25	Williams	Physical Education
+Edward S. Grees	Assistant Professor of Physical Education	BA	1975	58	Windham	Physical Education
+Dustin Griffin	Margaret Bundy Scott Visiting Professor of English Second Semester	BA	1965	68	Williams	English
+Eva U. Grudin	Senior Lecturer in Art	BA	1969	64	Boston University	Art
+Kim I. Gutschow	Lecturer in Religion and Anthropology/Sociology	BA	1988	45	Harvard	Religion
+***Sarah Hammerschlag	Assistant Professor of Religion	BA	1996	37	Wesleyan	Religion
+Amie Hane	Assistant Professor of Psychology	BA	1996	37	University of Maryland	Psychology
+Charles W. Haxthausen	Robert Sterling Clark Professor of Art History	BA	1966	67	University of St. Thomas	Art History
+***Laurie Heatherington	Edward Dorr Griffin Professor of Psychology	BA	1976	57	Miami University	Psychology
+Guy M. Hedreen	Professor of Art	BA	1981	52	Pomona	Art
+*Brent Heeringa	Assistant Professor of Computer Science	BA	1999	34	University of Minnesota	Computer Science
+Kris Herman	Assistant Professor of Physical Education and Head Coach of Softball	BA	1986	47	Tufts University	Physical Education
+Jacqueline Hidalgo	Assistant Professor of Religion	BA	2000	33	Columbia University	Religion
+Alan Hirsch	Visiting Assistant Professor of Legal Studies	BA	1981	52	Amherst	Political Science
+Marjorie W. Hirsch	Associate Professor of Music	BA	1982	51	Yale	Music
+Michael Ann Holly	Lecturer in the Graduate Program in Art History	PhD	1983	50	Cornell University	Art History
+*Amy S. Holzapfel	Assistant Professor of Theatre and Fellow of the Oakley Center for Humanities and Social Sciences	BA	1996	37	Brown	Theatre
+Kiaran Honderich	Visiting Associate Professor of Economics and Women’s and Gender Studies	BA	1983	50	Oxford	Women's and Gender Studies
+Meredith C. Hoppin	Frank M. Gagliardi Professor of Classics	BA	1972	61	Carleton	Classics
+Nicholas Howe	Postdoctoral Fellow in Environmental Studies	BA	1998	35	Columbia	Environmental Studies
+G. Robert Jackall	Willmott Family Third Century Professor of Sociology and Public Affairs	BA	1963	70	Fordham	Sociology
+Sarah Jacobson	Assistant Professor of Economics	BS	1998	35	Harvey Mudd	Economics
+Andrew W. Jaffe	Lyell B. Clay Artist-in-Residence in Music	BA	1973	60	Saint Lawrence	Music
+ Joy A. James	Professor of Humanities	BA	1980	53	St. Mary’s University	Political Science
+ **Ju-Yu Scarlett Jang	Professor of Art	BA	1969	64	National Cheng-Chih University	Art
+Cathy M. Johnson	Professor of Political Science	BA	1979	54	Dartmouth	Political Science
+Eugene J. Johnson III	Amos Lawrence Professor of Art	BA	1959	74	Williams	Art
+*Sarah (Liza) Johnson	Associate Professor of Art	BA	1992	41	Williams	Art
+Markes E. Johnson	Charles L. MacMillan Professor of Natural Sciences	BA	1971	62	University of Iowa	Biology
+Stewart D. Johnson	Professor of Mathematics	BA	1979	54	Ft. Lewis College	Mathematics
+Kevin M. Jones	William Edward McElfresh Professor of Physics	BA	1977	56	Williams	Physics
+*Jason A. Josephson	Assistant Professor of Religion	BA	1999	34	Hampshire College	Religion
+Peter Just	Professor of Anthropology	BA	1972	61	University of Chicago	Anthropology
+Shinko Kagaya	Associate Professor of Japanese	BA	1989	44	Aoyama Gakuin University	Japanese
+William R. Kangas	Assistant Professor of Physical Education	BA	1982	51	University of Vermont	Physical Education
+**Lawrence J. Kaplan	Halford R. Clark Professor of Natural Science	BS	1965	68	University of Pittsburgh	Chemistry
+Paul M. Karabinos	Professor of Geosciences	BS	1975	58	University of Connecticut	Geosciences
+Saul M. Kassin	Massachusetts Professor of Psychology	BA	1974	59	Brooklyn College	Psychology
+Robert D. Kavanaugh	Hales Professor of Psychology	BA	1967	66	Holy Cross	Psychology
+David S. Kechley	Professor of Music	BM	1970	63	University of Washington	Music
+Aaron Kelton	Assistant Professor of Physical Education and Head Coach of Football	BS	1991	42	Springfield College	Physical Education
+Kathryn R. Kent	Associate Professor of English	BA	1988	45	Williams	English
+Batool Samir Khattab	Visiting Assistant Professor of Arabic	BA	1993	40	Ain Shams University	Arabic
+Bruce Kieffer	Professor of German	BA	1973	60	Columbia	German
+Elizabeth A. Kieffer	Lecturer in German	BA	1977	56	Rutgers	German
+Kris N. Kirby	Professor of Psychology	BA	1985	48	Marshall	Psychology
+***Roger A. Kittleson	A ssociate Professor of History	BA	1985	48	Northwestern	History
+*John E. Kleiner	Professor of English	BA	1983	50	Amherst	English
+Bernhard Klingenberg	Associate Professor of Statistics	BA	1996	37	"Technical University, Austria"	Statistics
+***Sherron E. Knopp	John Hawley Roberts Professor of English	BA	1971	62	Loyola	English
+**Thomas A. Kohut	Sue and Edgar Wachenheim III Professor of History	BA	1972	61	Oberlin	History
+*Cornelius C. Kubler	Stanfield Professor of Asian Studies	BA	1972	61	Cornell	Asian Studies
+Steven Kuster	Assistant Professor of Physical Education	BA	1993	40	University of Pennsylvania	Physical Education
+Kenneth N. Kuttner	Robert F. White Class of 1952 Professor of Economics	BA	1982	51	University of California	Economics
+*Karen B. Kwitter	Ebenezer Fitch Professor of Astronomy	BA	1972	61	Wellesley	Astronomy
+Aida Laleian	Professor of Art	BFA	1978	55	Art Institute of Chicago	Art
+*Sara LaLumia	Assistant Professor of Economics	BA	2000	33	Youngstown State University	Economics
+William J. Lenhart	A. Barton Hepburn Professor of Computer Science and Provost and Treasurer of the College	BA	1977	56	St. Joseph’s	Computer Science
+Steven P. Levin	Professor of Art	BA	1976	57	Reed	Art
+Zafrir Levy	Assistant Professor of Physical Education and Head Coach of Men’s & Woman’s Squash	BA	2001	32	Williams	Physical Education
+Michael J. Lewis	Faison-Pierson-Stoddard Professor of Art History	BA	1979	54	Haverford	Art History
+Scott A. Lewis	Assistant Professor of Physical Education	BS	1980	53	Springfield College	Physical Education
+John K. Limon	John J. Gibson Professor of English	BA	1974	59	Harvard	English
+Susan R. Loepp	Professor of Mathematics	BA	1989	44	Bethel College	Mathematics
+**Margaret G. Long	Associate Professor of History and Fellow of the Oakley Center for Humanities and Social Sciences First Semester	BA	1989	44	Wesleyan	History
+Ward Lopes	Assistant Professor of Physics	BA	1992	41	Swarthmore	Physics
+David Love	Associate Professor of Economics	BA	1996	37	University of Michigan	Economics
+Charles M. Lovett	Jr. Philip and Dorothy Schein Professor of Chemistry	BS	1979	54	California State Poly.	Chemistry
+Peter D. Low	Assistant Professor of Art	BA	1994	39	University of Toronto	Art
+Daniel V. Lynch	Professor of Biology	BS	1979	54	University of Lowell	Biology
+William Lynn	Visiting Assistant Professor of Environmental Studies	BA	1989	44	Univ. of Minnesota	Environmental Studies
+Michael D. MacDonald	Frederick L. Schuman Professor in International Relations	BA	1972	61	University of California	Political Science
+Paul K. MacDonald	Assistant Professor of Political Science	BA	1998	35	University of California Berkeley	Political Science
+Jenna L. MacIntire	Instructor in Chemistry and in Biology	BA	1992	41	University of Vermont	Chemistry
+James E. Mahon	Jr. Woodrow Wilson Professor of Political Science	BA	1977	56	Dartmouth	Political Science
+Protik Kumar Majumder	Professor of Physics and Director of the Science Center	BS	1982	51	Yale	Physics
+Michael Maker	Assistant Professor of Physical Education and Head Coach of Men’s Basketball	BS	1988	45	California Baptist College	Physical Education
+James Manigault–Bryant	Assistant Professor of Africana Studies	BA	1995	38	Tulane	Africana Studies
+Patricia M. Manning	Assistant Professor of Physical Education	BS	1977	56	Cortland	Physical Education
+George E. Marcus	Professor of Political Science	BA	1964	69	Columbia	Political Science
+Luana Santoro Maroja	Assistant Professor of Biology	BS	1999	34	Univ Federal do Rio de Jane	Biology
+Brian Martin	Associate Professor of French Literature and French Language	BA	1993	40	Harvard	French
+Miguel Martinez	Visiting Assistant Professor of Spanish	BA	2003	30	Univ of Valladolid	Spanish
+Martha Marvin	Senior Essel Fellow in Neuroscience	BA	1984	49	University of California Berkeley	Neuroscience
+Eiko Maruko Siniawar	Associate Professor of History	BA	1997	36	Williams	History
+Michael Masci	Visiting Assistant Professor of Music	BA	2000	33	Connecticut College	Music
+Christine L. Mason	Assistant Professor of Physical Education	BS	1978	55	Penn State University	Physical Education
+Nancy Mowll Mathews	Lecturer in Art History	BA	1968	65	Goucher College	Art History
+James McAllister	Professor of Political Science	BA	1986	47	S.U.N.Y. Buffalo	Political Science
+Ann K. McCallum	Lecturer in Art	BA	1974	59	McGill University	Art
+George M. McCormack	Assistant Professor of Physical Education	BS	1987	46	Ithaca College	Physical Education
+Elizabeth P. McGowan	Professor of Art and Fellow of the Oakley Center for the Humanities and Social Sciences	BA	1979	54	Princeton	Art
+Morgan McGuire	Assistant Professor of Computer Science	BS	2000	33	Massachusetts Institute of Technology	Computer Science
+*Keith E. McPartland	Assistant Professor of Philosophyand Fellow of the Oakley Center for Humanities and Social Sciences	BA	1994	39	Rutgers	Philosophy
+Gage C. McWeeny	Assistant Professor of English	BA	1993	40	Columbia	English
+Lisa M. Melendy	Assistant Professor of Physical Education	BA	1982	51	Smith	Physical Education
+***Nicole Mellow	Associate Professor of Political Science	BA	1992	41	Vassar	Political Science
+*Karen R. Merrill	Professor of History	BA	1986	47	Oberlin	History
+Steven J. Miller	Assistant Professor of Mathematics	BS	1996	37	Yale University	Mathematics
+Bojana Mladenovic	Associate Professor of Philosophy	BA	1984	49	University of Belgrade	Philosophy
+*Peter J. Montiel	Farleigh S. Dickinson Jr. ’41 Professor of Economics	BA	1973	60	Yale	Economics
+Justin Moore	Assistant Professor of Physical Education	BA	1990	43	Rollins College	Physical Education
+Manuel A. Morales	Associate Professor of Biology	PhD	1999	34	University of Conneticut	Biology
+*Frank Morgan	Webster Atwell Class of 1921 Professor of Mathematics	BS	1974	59	M.I.T.	Mathematics
+David E. Morris	Assistant Professor of Theatre	BA	1996	37	Williams	Theatre
+*Ngonidzashe Munemo	Assistant Professor of Political Science and Fellow of the Oakley Center for Humanities and Social Sciences	BA	2000	33	Bard College	Political Science
+Peter T. Murphy	Professor of English	BA	1981	52	Yale	English
+Thomas P. Murtagh	Professor of Computer Science	BA	1974	59	Princeton	Computer Science
+Kenda B. Mutongi	Professor of History	BA	1989	44	Coe College	History
+*Mara Naaman	Assistant Professor of Arabic	BA	1996	37	Wesleyan	Arabic
+**Steven E. Nafziger	Assistant Professor of Economics	BA	2000	33	Northwestern	Economics
+Gail M. Newman	Harold J. Henry Professor of German	BA	1976	57	Northwestern	German
+Anthony J. Nicastro	Visiting Professor of Romance Languages	BA	1962	71	New York University	Romance Languages
+James L. Nolan	Jr. Professor of Sociology	BA	1984	49	University of California	Sociology
+Glyn P. Norton	Willcox B. and Harriet M. Adsit Professor of International Studies and Professor of Romance Languages	BA	1963	70	University of Michigan	Romance Languages
+Christopher M. B. Nugent	Associate Professor of Chinese	BA	1991	42	Brown	Chinese
+Carol J. Ockman	Dennis A. Meenan ’54 Third Century Professor of Art	BA	1972	61	Stanford	Art
+William Olney	Assistant Professor of Economics	BA	2002	31	Wesleyan	Economics
+Kenneth Osgood	Stanley Kaplan Visiting Professor of American Foreign Policy	BA	1994	39	Univ. of Notre Dame	Political Science
+**Allison Pacelli	Associate Professor of Mathematics	BS	1997	36	Union College	Mathematics
+Lee Y. Park	Professor of Chemistry	BA	1986	47	Wellesley	Chemistry
+Paul Park	Lecturer in English and the Graduate Program in Art History	BA	1975	58	Hampshire College	English
+Jay M. Pasachoff	Field Memorial Professor of Astronomy and Director of the Hopkins Observatory	BA	1963	70	Harvard	Astronomy
+Darel E. Paul	Associate Professor of Political Science	BA	1990	43	University of Minnesota	Political Science
+Enrique Peacock-López	Professor of Chemistry	BS	1974	59	"University Nac. Autonoma, Mexico"	Chemistry
+Julia A. Pedroni	Visiting Assistant Professor of Philosophy	BA	1986	47	Wells College	Philosophy
+Peter L. Pedroni	Professor of Economics	BA	1986	47	Miami University	Economics
+***Ileana Perez Velazquez	Associate Professor of Music	BM	1989	44	"Higher Institute of Arts-Havana, Cuba"	Music
+James L. Pethica	Senior Lecturer in English	BA	1980	53	Oxford	English
+***Katarzyna Pieprzak	Associate Professor of Francophone Literature and French Language	BA	1995	38	Rice	French
+Michelyne Pinard	Assistant Professor of Physical Education and Head Women’s Soccer Coach	BA	1998	35	Dartmouth	Physical Education
+Jonathan Pitcher	Visiting Associate Professor of Romance Languages First Semester	MA	1994	39	King’s College	Romance Languages
+***Amy D. Podmore	Professor of Art	BS	1982	51	State University College of Buffalo	Art
+Christopher L. Pye	Class of 1924 Professor of English	BA	1975	58	Oberlin	English
+Lawrence E. Raab	Morris Professor of Rhetoric	BA	1968	65	Middlebury	English
+***Ashok S. Rai	Associate Professor of Economics	BA	1992	41	Stanford	Economics
+*Wendy E. Raymond	Professor of Biology	BA	1982	51	Cornell	Biology
+Anne Reinhardt	Assistant Professor of History	BA	1990	43	Harvard	History
+Mark T. Reinhardt	Professor of Political Science and Class of 1956 Professor of American Civilization	BA	1983	50	Wesleyan	Political Science
+Joel Revill	Visiting Assistant Professor of History	BA	1997	36	Reed College	History
+Bernard J. Rhie	Assistant Professor of English	BA	1997	36	University of California	English
+David P. Richardson	William R. Kenan Jr. Professor of Chemistry	BA	1979	54	University of Michigan	Chemistry
+Neil Roberts	Assistant Professor of Africana Studies	BA	1998	35	Brown University	Africana Studies
+Michael Rolleigh	Assistant Professor of Economics	BA	1998	35	Hendrix College	Economics
+Alix H. Rorke	Assistant Professor of Physical Education and Head Field Hockey Coach	BA	1993	40	Williams	Physical Education
+Nancy A. Roseman	Professor of Biology and Director of the Williams Exeter Program at Exeter University	BA	1980	53	Smith	Biology
+***Shawn J. Rosenheim	Professor of English and Fellow of the Oakley Center for Humanities and Social Sciences	BA	1983	50	Oberlin	English
+*Leyla Rouhi	John B. McCoy and John T. McCoy Professor of Romance Languages	BA	1987	46	Oxford	Romance Languages
+Merida Rúa	Associate Professor of Latina/o Studies and American Studies	BA	1993	40	University of Illinois	Latina/o Studies
+T. Michael Russo	Assistant Professor of Physical Education and Coordinator of Physical Education	BA	1967	66	University of Massachusetts	Physical Education
+Michael Samson	Senior Lecturer in Economics	BA	1983	50	Yale	Economics
+Marlene J. Sandstrom	Professor of Psychology	BA	1991	42	Yale	Psychology
+Noah J. Sandstrom	Associate Professor of Psychology	BA	1994	39	Knox College	Psychology
+Omar Sangare	Assistant Professor of Theatre	MFA	1993	40	The Theatre Academy	Theatre
+Sheafe Satterthwaite	Lecturer in Art	BA	1962	71	University of Virginia	Art
+Robert M. Savage	Associate Professor of Biology	BA	1987	46	Bowdoin	Biology
+Tanseli Savaser	Assistant Professor of Economics	BA	2000	33	Bogazici University	Economics
+Kenneth K. Savitsky	Associate Professor of Psychology	BA	1993	40	Indiana University	Psychology
+***Jana L. Sawicki	Carl W. Vogt ’58 Professor of Philosophy	BA	1974	59	Sweet Briar	Philosophy
+Vincent J. Schleitwiler	Assistant Professor of English	BA	1996	37	Oberlin	English
+*Lucie Schmidt	Associate Professor of Economics	BA	1992	41	Smith	Economics
+Dawn Seckler	Visiting Assistant Professor of Russian	BA	1998	35	Colby	Russian
+Cheryl L. Shanks	Professor of Political Science	BA	1983	50	University of California	Political Science
+James R. Shepard	J. Leland Miller Professor of Literature	BA	1978	55	Trinity	Literature
+Karen L. Shepard	Lecturer in English	BA	1987	46	Williams	English
+*Stephen C. Sheppard	Class of 2012 Professor of Economics	BS	1977	56	University of Utah	Economics
+W. Anthony Sheppard	Professor of Music	BA	1991	42	Amherst	Music
+Lara Shore-Sheppard	Professor of Economics	BA	1991	42	Amherst	Economics
+Olga Shevchenko	Associate Professor of Sociology	BA	1996	37	Moscow State University	Sociology
+*Glenn W. Shuck	Assistant Professor of Religion	BA	1994	39	Texas Lutheran University	Religion
+Cesar E. Silva	Hagey Family Professor of Mathematics	BS	1977	56	Catholic University	Mathematics
+Holly Silva	Lecturer in Physical Education	BS	1977	56	Connecticut State University	Physical Education
+Marc A. Simpson	Lecturer in the Graduate Program in Art History and Associate Director of the Graduate Program in Art History	BA	1975	58	Middlebury	Art History
+Shanti M. Singham	Professor of History	BA	1980	53	Swarthmore	History
+Anne R. Skinner	Senior Lecturer in Chemistry	BA	1961	72	Radcliffe	Chemistry
+***David C. Smith	Senior Lecturer in Biology	BS	1968	65	Yale	Biology
+David L. Smith	John W. Chandler Professor of English	BA	1974	59	New College	English
+Thomas E. Smith	Professor of Chemistry	BA	1988	45	Williams	Chemistry
+Jonathan Snow	Visiting Assistant Professor of Biology	BA	1996	37	Williams	Biology
+***Anita R. Sokolsky	Professor of English	BA	1974	59	Oberlin	English
+Paul R. Solomon	Professor of Psychology	BA	1970	63	S.U.N.Y.	Psychology
+*Stefanie Solum	Associate Professor of Art	BA	1991	42	University of Wisconsin	Art
+Steven P. Souza	Observatory Supervisor/Instructor of Astronomy	BS	1973	60	Cooper Union	Astronomy
+Mihai Stoiciu	Assistant Professor of Mathematics	BS	1999	34	University of Bucharest	Mathematics
+Jefferson Strait	Professor of Physics and College Marshal	BA	1975	58	Harvard	Physics
+Frederick W. Strauch	Assistant Professor of Physics	BS	1998	35	Loyola College	Physics
+Alison Swain	Assistant Professor of Physical Education	BA	2001	32	Williams	Physical Education
+**Anand V. Swamy	Professor of Economics	BA	1983	50	University of Delhi	Economics
+Karen E. Swann	Professor of English	BA	1975	58	Oberlin	English
+Jane Swift	Class of 1948 Distinguished Visiting Lecturer in Leadership Studies	BA	1987	46	Trinity College	Leadership Studies
+Steven J. Swoap	Professor of Biology	BA	1990	43	Trinity	Biology
+***Barbara E. Takenaga	Mary A. and William Wirt Warren Professor of Art	BFA	1972	61	University of Colorado	Art
+John W. Thoman	J. Hodge Markgraf Professor of Chemistry	BA	1982	51	Williams	Chemistry
+Christian Thorne	Associate Professor of English	BA	1995	38	Wesleyan	English
+***Stephen J. Tifft	Professor of English	BA	1975	58	Harvard	English
+Claire S. Ting	Associate Professor of Biology	BA	1986	47	Yale	Biology
+*David Tucker-Smith	Associate Professor of Physics	BA	1995	38	Amherst	Physics
+Ji-Young Um	Visiting Assistant Professor of English	BA	1996	37	Oberlin	English
+Arafaat Valiani	Assistant Professor of Sociology	BA	1996	37	Concordia University	Sociology
+Janneke van de Stadt	Associate Professor of Russian	BA	1988	45	Amherst College	Russian
+Armando Vargas	Assistant Professor of Comparative Literature	BS	1992	41	Georgetown	Comparative Literature
+Kiara Vigil	Gaius Charles Bollin Fellow in American Studies	BA	1997	36	Tufts	American Studies
+William Vitek	W. Ford Schumann Visiting Professor in Democratic Studies	BA	1979	54	Union	Environmental Studies
+William G. Wagner	Dean of the Faculty and Brown Professor of History	BA	1972	61	Haverford	History
+**Dorothy J. Wang	Assistant Professor of American Studies	BA	1985	48	Duke	American Studies
+Christopher M. Waters	Hans W. Gatzke ’38 Professor of Modern European History	BA	1977	56	California State	History
+Tara Watson	Assistant Professor of Economics	BA	1996	37	Wesleyan	Economics
+Bradley Wells	Clay Artist-in-Residence and Lecturer in Music	BA	1984	49	Principia College	Music
+Peter S. Wells	Assistant Professor of Physical Education	BA	1979	54	Williams	Physical Education
+Carmen Whalen	Professor of History and Associate Dean for Institutional Diversity	BA	1985	48	Hampshire College	History
+Alan E. White	Mark Hopkins Professor of Philosophy	BA	1972	61	Tulane	Philosophy
+Amanda Wilcox	Assistant Professor of Classics	BA	1996	37	Reed College	Classics
+Heather Williams	Professor of Biology	BA	1977	56	Bowdoin	Biology
+***Alex W. Willingham	Professor of Political Science	BA	1963	70	Southern University	Political Science
+Nicholas L. Wilson	Assistant Professor of Economics	BA	1999	34	Reed College	Economics
+Reinhard A. Wobus	Edna McConnell Clark Professor of Geology	BA	1962	71	Washington University	Geosciences
+K. Scott Wong	James Phinney Baxter 3rd Professor of History	BA	1976	57	Rutgers	History
+James B. Wood	Charles R. Keller Professor of American History	BA	1968	65	Florida Presbyterian	History
+William K. Wootters	Barclay Jermain Professor of Natural Philosophy	BS	1973	60	Stanford	Philosophy
+Miki Yagi	Visiting Lecturer in Japanese	BA	2002	31	Kansai Gaidai Univ.	Japanese
+**Reiko Yamada	Professor of Japanese	BA	1978	55	Portland State Univ.	Japanese
+Kasumi Yamamoto	Assistant Professor of Japanese	BA	1985	48	Columbia	Japanese
+Li Yu	Assistant Professor of Chinese	BA	1995	38	East China Normal University	Chinese
+Ye Yuan	Visiting Lecturer in Chinese	BA	2004	29	East China Normal University	Chinese
+**Safa R. Zaki	Professor of Psychology	BA	1989	44	American University	Psychology
+Betty Zimmerberg	Professor of Psychology	BA	1971	62	Harvard	Psychology
+David J. Zimmerman	Orrin Sage Professor of Political Economy	Bcomm	1985	48	University of Toronto	Political Economy
+***Steven J. Zottoli	Howard B. Schow ’50 and Nan W. Schow Professor of Biology	BA	1969	64	Bowdoin	Biology
