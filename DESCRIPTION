@@ -16,8 +16,5 @@ Suggests:
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
 URL: https://github.com/voaustin96/facultyephs
-<<<<<<< HEAD
 BugReports: https://github.com/voaustin96/facultyephs/issues
-=======
-BugReports: http://github.com/voaustin96/facultyephs/issues
->>>>>>> 064915e0df6867aecb39bc12285d406376954869
+
